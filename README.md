@@ -1,2 +1,0 @@
-# cupskeee
-Personal profile webpage.
